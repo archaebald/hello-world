@@ -1,2 +1,3 @@
 # hello-world
-first one
+First one.
+My name is Archie. I'm 24 years old. I like drinking tea, reading and rock climbing.
